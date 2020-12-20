@@ -1,0 +1,301 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Da Crust - Food Shop</title>
+        <!--- link for google fonts -->
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap"
+        />
+        <!--- link for css file -->
+        <link rel="stylesheet" href="style/style.css" />
+        <link rel="stylesheet" href="style/responsive.css">
+        <!--- link for font-awesome icons library -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+        />
+        <!-- text animating library -->
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+        integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw=="
+        crossorigin="anonymous"
+        />
+    </head>
+    <body>
+        <div class="container">
+            <!--* ==========Navbar========== -->
+            <div class="nav">
+                <nav class="navbar">
+                  <h1 onclick="redirectToHomePage();">
+                    <span>D</span>
+                    <span>A</span>
+                    &nbsp;
+                    <span>C</span>
+                    <span>R</span>
+                    <span>U</span>
+                    <span>S</span>
+                    <span>T</span>
+                    <i class="fas fa-drumstick-bite"></i>
+                  </h1>
+        
+                  <div class="menu-nav">
+                    <div class="nav-top">
+                      <div class="close">
+                        <i class="fas fa-times"></i>
+                      </div>
+                    </div>
+        
+                    <ul class="nav-list">
+                      <li>
+                        <a href="index.html" class="normal" id="home-page-btn"> Home </a>
+                      </li>
+                      <li>
+                        <a href="menu.html" class="normal" id="menu-page-btn"> Menu </a>
+                      </li>
+                      <li>
+                        <a href="order-online.html" class="normal selected" id="order-page-btn"> Order Online </a>
+                      </li>
+                      <li>
+                        <a href="admin.html" class="normal" id="admin-page-btn"> Admin </a>
+                      </li>
+                      <li>
+                        <a href="#contact" class="normal" id="contact-page-btn"> Contact </a>
+                      </li>
+                      <li class="order-btn">
+                        <a href="order-online.html" id="order-btn">Order Online</a>
+                      </li>
+                    </ul>
+                  </div>
+        
+                  <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                  </div>
+                </nav>
+              </div>
+            <!--* ==========End of Navbar========== -->
+
+            <!--* ==========Order Online========== -->
+            <div class="order-online" id="order-online-div">
+                <div class="loader"></div>
+                <h1>ORDER ONLINE</h1>
+                <div class="order-online-menu" id="order-online-menu-div">
+                    <div class="left-side-menu">
+                        <div class="guest">
+                            <a href="#"><i class="fas fa-user"></i> Hi, Guest</a>
+                        </div>
+                        <div class="left-side-menu-list">
+                            <div class="menu-dropdown">
+                                <button onclick="showHide();">
+                                    Menu
+                                    <i class="fas fa-chevron-up" id="down"></i>
+                                </button>
+                            </div>
+                            <ul id="drop-content">
+                                <li id="li1" onclick="showBreakfast();"><a>Breakfast</a></li>
+                                <li id="li2" onclick="showStarter();"><a>Starter</a></li>
+                                <li id="li3" onclick="showChicken();"><a>Chicken</a></li>
+                                <li id="li4" onclick="showBeef();"><a>Beef</a></li>
+                                <li id="li5" onclick="showPork();"><a>Pork</a></li>
+                                <li id="li6" onclick="showLamb();"><a>Lamb</a></li>
+                                <li id="li7" onclick="showSeafood();"><a>Seafood</a></li>
+                                <li id="li8" onclick="showPasta();"><a>Pasta</a></li>
+                                <li id="li9" onclick="showDessert();"><a>Dessert</a></li>
+                                <li id="li10" onclick="showDrinks();"><a>Drinks</a></li>
+                                <li id="li11" onclick="showNewMeal();"><a>New Meal</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="center-side-menu">
+                        <h2>Menu</h2>
+                        <hr />
+                        <div class="order-online-menu-list">
+                            <div class="order-online-title">
+                                <p class="p1 hidden-p" id="p1">Breakfast</p>
+                                <div class="order-title-list" id="order-breakfast"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p2 hidden-p" id="p2">Starter</p>
+                                <div class="order-title-list" id="order-starter"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p3 hidden-p" id="p3">Chicken</p>
+                                <div class="order-title-list" id="order-chicken"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p4 hidden-p" id="p4">Beef</p>
+                                <div class="order-title-list" id="order-beef"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p5 hidden-p" id="p5">Pork</p>
+                                <div class="order-title-list" id="order-pork"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p6 hidden-p" id="p6">Lamb</p>
+                                <div class="order-title-list" id="order-lamb"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p7 hidden-p" id="p7">Seafood</p>
+                                <div class="order-title-list" id="order-seafood"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p8 hidden-p" id="p8">Pasta</p>
+                                <div class="order-title-list" id="order-pasta"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p9 hidden-p" id="p9">Dessert</p>
+                                <div class="order-title-list" id="order-dessert"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p10 hidden-p" id="p10">Drinks</p>
+                                <div class="order-title-list" id="order-drinks"></div>
+                            </div>
+                            <div class="order-online-title">
+                                <p class="p11 hidden-p" id="p11">New Meal</p>
+                                <div class="order-title-list" id="order-new-meal"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="right-side-order">
+                        <div class="my-order">
+                            <p>My Order</p>
+                            <p>(<span id="nr-of-items">0</span> items)</p>
+                        </div>
+                        <div class="order-now-items">
+                            <div class="order-logo">
+                                <i class="fas fa-shopping-bag"></i>
+                                <p>
+                                    <small>
+                                        Browse our menu and start adding items to your order
+                                    </small>
+                                </p>
+                            </div>
+                            <!-- cart items -->
+                            <div class="cart-items"></div>
+                        </div>
+                        <hr />
+                        <div class="subtotal">
+                            <p>Total</p>
+                            <p><span class="cart-subtotal-price">0</span> $</p>
+                        </div>
+                        <div class="special-requests">
+                            <button onclick="specialRequest();"><i class="fas fa-plus"></i> Special requests</button>
+                            <input type="text" id="drop-input" placeholder="Special requests"></input>
+                            <hr>
+                        </div>
+                        <div class="pick-up">
+                            <p>Pickup Only</p>
+                            <p>For: ASAP(in 15 minutes)</p>
+                            <button id="btn-purchase">ORDER NOW <i class="fas fa-chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--* ==========End of Order Online========== -->
+
+            <!--* ==========Contact========== -->
+            <div class="contact" id="contact">
+                <div class="contact-form">
+                    <h2>CONTACT US</h2>
+                    <h4>DROP US A LINE AND WE'LL GET BACK TO YOU</h4>
+                    <form id="form"  method="POST" data-netlify="true">
+                        <div class="first-row">
+                            <div class="first-row-left-side">
+                                <label for="first-name">First Name</label>
+                                <input type="text" id="first-name" />
+                                <small>Error message</small>
+                            </div>
+                            <div class="first-row-right-side">
+                                <label for="last-name">Last Name</label>
+                                <input type="text" id="last-name" />
+                                <small>Error message</small>
+                            </div>
+                        </div>
+                        <div class="second-row">
+                            <div class="first-row-left-side">
+                                <label for="email">Email *</label>
+                                <input type="text" id="email" />
+                                <small>Error message</small>
+                            </div>
+                            <div class="first-row-right-side">
+                                <label for="subject">Subject</label>
+                                <input type="text" id="subject" />
+                                <small>Error message</small>
+                            </div>
+                        </div>
+                        <div class="third-row">
+                            <div class="first-row-left-side">
+                                <label for="message"> Leave us a message... </label>
+                                <input type="text" id="message" />
+                                <small>Error message</small>
+                            </div>
+                            <div class="first-row-right-side">
+                                <input type="submit" value="Submit" id="submit" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="contact-details">
+                    <h2>WE'RE OPEN</h2>
+                    <p>
+                        Monday-Friday: 11am - 10pm <br />
+                        Saturday-Sunday: 11am - 12am
+                    </p>
+                    <p>
+                        500 Terry Francois Street, <br />
+                        San Francisco, CA 94158
+                    </p>
+                    <p>
+                        Tel: 123-456-7890 <br />
+                        Email:info@mysite.com
+                    </p>
+                    <div class="social-media">
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        <a href="https://twitter.com/home"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!--* ==========End of Contact========== -->
+
+            <!--* ==========Footer========== -->
+            <div class="footer">
+                <p>
+                    © 2020 Da Crust. All rights reserved.
+                </p>
+            </div>
+            <!--* ==========End of Footer========== -->
+        </div>
+
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script>
+
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+
+        <script>
+            // Your web app's Firebase configuration
+            var firebaseConfig = {
+                apiKey: "AIzaSyAGETjsjNgtx4uAuDWm_IEjhrv5uPxlnKA",
+                authDomain: "myfirstproject-b0fb4.firebaseapp.com",
+                databaseURL: "https://myfirstproject-b0fb4.firebaseio.com",
+                projectId: "myfirstproject-b0fb4",
+                storageBucket: "myfirstproject-b0fb4.appspot.com",
+                messagingSenderId: "460498061004",
+                appId: "1:460498061004:web:7c86387178aa185a5d6469",
+            };
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
+        </script>
+
+        <!--- link for script file -->
+        <script src="script/script.js"></script>
+        <script src="script/contact.js"></script>
+        <script src="script/order-online.js"></script>
+    </body>
+</html>

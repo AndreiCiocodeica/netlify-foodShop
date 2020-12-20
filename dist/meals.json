@@ -1,0 +1,849 @@
+{
+    "meals":[
+    {
+        "breakfast":[
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "Breakfast Potatoes",
+                "mealId": "1",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+                "mealDescription": "Potatoes ,Olive Oil, Bacon, Garlic Clove, Maple Syrup, Parsley, Salt, Pepper, Allspice",
+                "mealPrice": "6",
+                "mealStock": "100",
+                "mealPrepTime": "5",
+                "mealRecipe": "Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop! Wash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water. In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat. Tilt the skillet so the oil spreads evenly. Once the oil is hot, drain the potatoes and add to the skillet. Season with salt, pepper, and Old Bay as needed. Cook for 10 minutes, stirring the potatoes often, until brown. If needed, add a tablespoon more of oil. Chop up the bacon and add to the potatoes. The bacon will start to render and the fat will begin to further cook the potatoes. Toss it up a bit! The bacon will take 5-6 minutes to crisp. Once the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss. Season once more. Add dried or fresh parsley. Control heat as needed. Let the garlic cook until fragrant, about one minute. Just before serving, drizzle over the maple syrup and toss. Let that cook another minute, giving the potatoes a caramelized effect. Serve in a warm bowl with a sunny side up egg!"
+            },
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "English Breakfast",
+                "mealId": "2",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg",
+                "mealDescription": "Sausages, Bacon, Mushrooms, Tomatoes, Black Pudding, Eggs, Bread",
+                "mealPrice": "7",
+                "mealStock": "100",
+                "mealPrepTime": "5",
+                "mealRecipe": "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil. Cook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven. Snip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven. For the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy. For the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape. For the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1½-2 minutes each side until slightly crispy. For 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice. For the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice. Once all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce."
+            },
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "Fruit and Cream Cheese",
+                "mealId": "3",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+                "mealDescription": "Cream Cheese, Sugar, Vanilla Extract, Flour, Puff Pastry, Strawberries, Raspberries, Blackberries",
+                "mealPrice": "6",
+                "mealStock": "100",
+                "mealPrepTime": "5",
+                "mealRecipe": "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge. NOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact. Take the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape. Place 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top. Repeat with the remaining pastry squares and place them onto the parchment covered baking sheet. Bake for 15-20 minutes or until pastry is golden brown and puffed. Enjoy!"
+            },
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "Full English Breakfast",
+                "mealId": "4",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg",
+                "mealDescription": "Sausages, Bacon, Mushrooms, Tomatoes, Black Pudding, Eggs, Bread, Baked Beans",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "8",
+                "mealRecipe": "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil. Cook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven. Snip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven. For the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy. For the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape. For the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1½-2 minutes each side until slightly crispy. For 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice. For the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice. Once all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce."
+            },
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "Home-made Mandazi",
+                "mealId": "5",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg",
+                "mealDescription": "Self-raising Flour, Sugar, Eggs, Milk",
+                "mealPrice": "7",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "This is one recipe a lot of people have requested and I have tried to make it as simple as possible and I hope it will work for you. Make sure you use the right flour which is basically one with raising agents. Adjust the amount of sugar to your taste and try using different flavours to have variety whenever you have them. You can use Coconut milk instead of regular milk, you can also add desiccated coconut to the dry flour or other spices like powdered cloves or cinnamon. For “healthy looking” mandazis do not roll the dough too thin before frying and use the procedure I have indicated above. 1. Mix the flour,cinnamon and sugar in a suitable bowl. 2. In a separate bowl whisk the egg into the milk 3. Make a well at the centre of the flour and add the milk and egg mixture and slowly mix to form a dough. 4. Knead the dough for 3-4 minutes or until it stops sticking to the sides of the bowl and you have a smooth surface. 5. Cover the dough with a damp cloth and allow to rest for 15 minutes. 6. Roll the dough on a lightly floured surface into a 1cm thick piece. 7. Using a sharp small knife, cut the dough into the desired size setting aside ready for deep frying. 8. Heat your oil in a suitable pot and gently dip the mandazi pieces to cook until light brown on the first side then turn to cook on the second side. 9. Serve them warm or cold"
+            },
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "Salmon Eggs Eggs Benedict",
+                "mealId": "6",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+                "mealDescription": "Eggs, White Wine Vinegar, English Muffins, Butter, Smoked Salmon, Lemon Juice, White Wine Vinegar, Egg, Unsalted Butter",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm. To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon. Lightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives."
+            },
+            {
+                "mealCategory": "Breakfast",
+                "mealName": "Smoked Haddock Kedgeree",
+                "mealId": "7",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+                "mealDescription": "Butter, Onion, Cardamom, Turmeric, Cinnamon Stick, Bay Leaf, Basmati Rice, Chicken Stock, Smoked Haddock, Eggs, Parsley, Lemon",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned. Stir in 3 split cardamom pods, ¼ tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute. Tip in 450g basmati rice and stir until it is all well coated in the spicy butter. Pour in 1 litre chicken or fish stock, add ½ teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes. Meanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle. Hard-boil 3 eggs for 8 minutes. Flake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop. Uncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through. Gently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges."
+            }],
+
+        "starter":[
+            {
+                "mealCategory": "Starter",
+                "mealName": "Broccoli & Stilton soup",
+                "mealId": "8",
+                "mealPicture":"https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+                "mealDescription": "Rapeseed Oil, Onion, Celery, Leek, Potatoes, Butter, Vegetable Stock, Broccoli, Stilton Cheese",
+                "mealPrice": "12",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch. Add the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid. Pour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft. Add the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve."
+            },
+            {
+                "mealCategory": "Starter",
+                "mealName": "Clam chowder",
+                "mealId": "9",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+                "mealDescription": "Clams,Butter, Bacon, Onion, Thyme, Bay Leaf, Plain Flour, Milk, Double Cream, Potatoes, Parsley",
+                "mealPrice": "12",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Rinse the clams in several changes of cold water and drain well. Tip the clams into a large pan with 500ml of water. Cover, bring to the boil and simmer for 2 mins until the clams have just opened. Tip the contents of the pan into a colander over a bowl to catch the clam stock. When cool enough to handle, remove the clams from their shells – reserving a handful of empty shells for presentation if you want. Strain the clam stock into a jug, leaving any grit in the bottom of the bowl. You should have around 800ml stock. Heat the butter in the same pan and sizzle the bacon for 3-4 mins until it starts to brown. Stir in the onion, thyme and bay and cook everything gently for 10 mins until the onion is soft and golden. Scatter over the flour and stir in to make a sandy paste, cook for 2 mins more, then gradually stir in the clam stock then the milk and the cream. Throw in the potatoes, bring everything to a simmer and leave to bubble away gently for 10 mins or until the potatoes are cooked. Use a fork to crush a few of the potato chunks against the side of the pan to help thicken – you still want lots of defined chunks though. Stir through the clam meat and the few clam shells, if you've gone down that route, and simmer for a minute to reheat. Season with plenty of black pepper and a little salt, if needed, then stir through the parsley just before ladling into bowls or hollowed-out crusty rolls."
+            },
+            {
+                "mealCategory": "Starter",
+                "mealName": "Cream Cheese Tart",
+                "mealId": "10",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+                "mealDescription": "Flour, Butter, Egg, Salt, Cheese, Milk, Eggs, Parmesan Cheese, Plum tomatoes, White Vinegar, Honey, Basil",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy"
+            },
+            {
+                "mealCategory": "Starter",
+                "mealName": "Creamy Tomato Soup",
+                "mealId": "11",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+                "mealDescription": "Olive Oil, Onions, Celery, Carrots, Potatoes, Bay Leaf, Tomato Puree, Sugar, White Vinegar, Chopped Tomatoes, Passata, Vegetable Stock Cube, Whole Milk",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Put the oil, onions, celery, carrots, potatoes and bay leaves in a big casserole dish, or two saucepans. Fry gently until the onions are softened – about 10-15 mins. Fill the kettle and boil it. Stir in the tomato purée, sugar, vinegar, chopped tomatoes and passata, then crumble in the stock cubes. Add 1 litre boiling water and bring to a simmer. Cover and simmer for 15 mins until the potato is tender, then remove the bay leaves. Purée with a stick blender (or ladle into a blender in batches) until very smooth. Season to taste and add a pinch more sugar if it needs it. The soup can now be cooled and chilled for up to 2 days, or frozen for up to 3 months. To serve, reheat the soup, stirring in the milk – try not to let it boil. Serve in small bowls with cheesy sausage rolls."
+            }],
+
+        "chicken":[
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Chick-Fil-A Sandwich",
+                "mealId": "12",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+                "mealDescription": "Chicken Breast,Pickle Juice,Egg,Milk,Flour,Icing Sugar,Paprika,Salt,Black Pepper,Garlic Powder, Celery Salt,Cayenne Pepper,Olive Oil,Sesame Seed Burger Buns",
+                "mealPrice": "5",
+                "mealStock": "100",
+                "mealPrepTime": "5",
+                "mealRecipe": "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around. Cut into two pieces, as even as possible. Marinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich). Beat the egg with the milk in a bowl. Combine the flour, sugar, and spices in another bowl. Dip the chicken pieces each into the egg on both sides, then coat in flour on both sides. Heat the oil in a skillet (1/2 inch deep) to about 345-350. Fry each cutlet for 2 minutes on each side, or until golden and cooked through. Blot on paper and serve on toasted buns with pickle slices."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Chicken & mushroom Hotpot",
+                "mealId": "13",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+                "mealDescription": "Chicken, Onion, Tomatoes, Garlic, Ginger paste, Vegetable oil, Cumin seeds, Coriander seeds, Turmeric powder, Chilli powder, Green chilli, Yogurt, Cream, fenugreek, Garam masala",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside. To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes. Then return the fried onion to the pot and stir. Add ginger paste and sauté well. Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir. Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes. Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat. When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well. Finally add the cream and give a final mix to combine everything well. Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!"
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Chicken Enchilada Casserole",
+                "mealId": "14",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+                "mealDescription": "Enchilada sauce, shredded Monterey Jack cheese, corn tortillas, chicken breasts",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom. Remove chicken from the pot and shred with two forks. Preheat oven to 375 F degrees. Start layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese. Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top. Serve warm."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Chicken Karaage",
+                "mealId": "15",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+                "mealDescription": "Chicken thigh, Ginger, Garlic, Soy sauce, Sake, Granulated sugar, Potato starch, Vegetable oil, Lemon",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour. Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl Add a handful of chicken to the potato starch and toss to coat each piece evenly. Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Chicken Quinoa Greek Salad",
+                "mealId": "16",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+                "mealDescription": "Quinoa, Butter, Red Chilli, Garlic, Chicken Breast, Olive Oil, Black Olives, Red Onions, Feta, Mint, Lemon",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt. Next, tip the tomatoes, olives, onion, feta and mint into a bowl. Toss in the cooked quinoa. Stir through the remaining olive oil, lemon juice and zest, and season well. Serve with the chicken fillets on top, drizzled with any buttery chicken juices."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Crock Pot Chicken Baked Tacos",
+                "mealId": "17",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+                "mealDescription": "Chicken Breasts, Vinaigrette Dressing, Cumin, Smoked Paprika, Garlic, Refried Beans, Hard Taco Shells, Shredded Mexican Cheese, Grape Tomatoes, Jalapeno, Avocado, Green Salsa, Sour Cream, Milk",
+                "mealPrice": "5",
+                "mealStock": "100",
+                "mealPrepTime": "5",
+                "mealRecipe": "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon. Cover your crock pot with the lid and cook on high for 4 hours. Remove all the chicken breasts from the crock pot and let cool. Shred the chicken breasts and move to a glass bowl. Pour most of the liquid over the shredded chicken. FOR THE TACOS: Make the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed. Make the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle. In a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese. Bake at 450 for 10-15 minutes just until the cheese is melted and bubbling. Out of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro. Finish with a drizzle of guacamole and sour cream. Enjoy!"
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "French Onion Chicken",
+                "mealId": "18",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+                "mealDescription": "Chicken Breasts, Carrots, Small Potatoes, Onion, Beef Stock, Mozzarella, Sour Cream, Butter, Sugar, Vegetable Oil, Salt, Pepper",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "1 Preheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into ¼-inch-thick pieces. Dice potatoes into ½-inch pieces. Halve, peel, and thinly slice onion. 2 Toss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes. 3 Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm. 4 While potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (¼ cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan. 5 Pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn’t have a lid, cover with a baking sheet!) 6 Heat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Honey Balsamic Chicken",
+                "mealId": "19",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+                "mealDescription": "Potatoes, Broccoli, Garlic, Chicken Breast, Balsamic Vinegar, Honey, Chicken Stock, Butter, Vegetable Oil, Olive Oil",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "2 Servings 1. Preheat oven to 425 degrees. Wash and dry all produce. Cut potatoes into 1/2-inch-thick wedges. Toss on one side of a baking sheet with a drizzle of oil, salt, and pepper. (For 4 servings, spread potatoes out across entire sheet.) Roast on top rack for 5 minutes (we'll add the broccoli then). 2. Meanwhile, cut broccoli florets into bite-size pieces, if necessary. Peel and finely chop garlic. In a small microwave-safe bowl, combine 1 TBSP olive oil (2 TBSP for 4 servings) and half the garlic. Microwave until garlic sizzles, 30 seconds. 3. Once potatoes have roasted 5 minutes, remove sheet from oven and add broccoli to empty side; carefully toss with garlic oil, salt, and pepper. (For 4 servings, add broccoli to a second sheet.) Continue roasting until potatoes and broccoli are browned and crispy, 15-20 minutes more. 4. While veggies roast, pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. (If chicken browns too quickly, reduce heat to medium.) Turn off heat; set chicken aside to rest. Wash out pan. 5. Heat pan used for chicken over medium-high heat. Add a drizzle of oil and remaining garlic; cook until fragrant, 30 seconds. Stir in vinegar, honey, stock concentrate, and 1/4 cup water (1/3 cup for 4 servings). Simmer until thick and glossy, 2-3 minutes. Remove from heat and stir in 1 TBSP butter (2 TBSP for 4). Season with salt and pepper. 6. Return chicken to pan and turn to coat in glaze. Divide chicken, broccoli, and potatoes between plates. Spoon any remaining glaze over chicken and serve."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Kentucky Fried Chicken",
+                "mealId": "20",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+                "mealDescription": "Chicken, Oil, Egg White, Flour, Brown Sugar, Salt, paprika, onion salt, chili powder, black pepper, celery salt, sage, garlic powder, allspice, oregano, basil, marjoram",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients. Combine spice mix with flour, brown sugar and salt. Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces. Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit. Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F. Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Kung Pao Chicken",
+                "mealId": "21",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+                "mealDescription": "Sake, Soy Sauce, Sesame Seed Oil, Corn Flour, Water, Chicken, Chilli Powder, Rice Vinegar, Brown Sugar, Spring Onions, Garlic Clove, Water Chestnut, Peanuts",
+                "mealPrice": "12",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half. In a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes. In a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic. Meanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens."
+            },
+            {
+                "mealCategory": "Chicken",
+                "mealName": "Shawarma",
+                "mealId": "22",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+                "mealDescription": "Chicken Thighs, Coriander, Cumin, Cardamom, Cayenne Pepper, Paprika, Lemon Juice, Olive Oil, Greek Yogurt, Garlic Clove, Cumin, Lemon Juice, Lettuce, Tomato, Pita Bread",
+                "mealPrice": "5",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "Combine the marinade ingredients in a large ziplock bag (or bowl). Add the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece. Marinate overnight or up to 24 hours. Combine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge). Heat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking) Place chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time). Remove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes. TO SERVE Slice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce. To make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!"
+            }],
+
+        "beef":[
+            {
+                "mealCategory": "Beef",
+                "mealName": "Beef and Mustard Pie",
+                "mealId": "23",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+                "mealDescription": "Beef, Plain Flour, Rapeseed Oil, Red Wine, Beef Stock, Onion, Carrots, Thyme, Mustard, Egg Yolks, Puff Pastry, Green Beans, Butter, Salt, Pepper",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Preheat the oven to 150C/300F/Gas 2. Toss the beef and flour together in a bowl with some salt and black pepper. Heat a large casserole until hot, add half of the rapeseed oil and enough of the beef to just cover the bottom of the casserole. Fry until browned on each side, then remove and set aside. Repeat with the remaining oil and beef. Return the beef to the pan, add the wine and cook until the volume of liquid has reduced by half, then add the stock, onion, carrots, thyme and mustard, and season well with salt and pepper. Cover with a lid and place in the oven for two hours. Remove from the oven, check the seasoning and set aside to cool. Remove the thyme. When the beef is cool and you're ready to assemble the pie, preheat the oven to 200C/400F/Gas 6. Transfer the beef to a pie dish, brush the rim with the beaten egg yolks and lay the pastry over the top. Brush the top of the pastry with more beaten egg. Trim the pastry so there is just enough excess to crimp the edges, then place in the oven and bake for 30 minutes, or until the pastry is golden-brown and cooked through. For the green beans, bring a saucepan of salted water to the boil, add the beans and cook for 4-5 minutes, or until just tender. Drain and toss with the butter, then season with black pepper. To serve, place a large spoonful of pie onto each plate with some green beans alongside."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Beef Bourguignon",
+                "mealId": "24",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+                "mealDescription": "Goose Fat, Beef Shin, Bacon, Challots, Chestnut Mushroom, Garlic Clove, Bouquet Garni, Tomato Puree, Red Wine, Celeriac, Olive Oil, Thyme, Rosemary, Bay Leaf, Cardamom",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Heat a large casserole pan and add 1 tbsp goose fat. Season the beef and fry until golden brown, about 3-5 mins, then turn over and fry the other side until the meat is browned all over, adding more fat if necessary. Do this in 2-3 batches, transferring the meat to a colander set over a bowl when browned. In the same pan, fry the bacon, shallots or pearl onions, mushrooms, garlic and bouquet garni until lightly browned. Mix in the tomato purée and cook for a few mins, stirring into the mixture. This enriches the bourguignon and makes a great base for the stew. Then return the beef and any drained juices to the pan and stir through. Pour over the wine and about 100ml water so the meat bobs up from the liquid, but isn’t completely covered. Bring to the boil and use a spoon to scrape the caramelised cooking juices from the bottom of the pan – this will give the stew more flavour. Heat oven to 150C/fan 130C/gas 2. Make a cartouche: tear off a square of foil slightly larger than the casserole, arrange it in the pan so it covers the top of the stew and trim away any excess foil. Then cook for 3 hrs. If the sauce looks watery, remove the beef and veg with a slotted spoon, and set aside. Cook the sauce over a high heat for a few mins until the sauce has thickened a little, then return the beef and vegetables to the pan. To make the celeriac mash, peel the celeriac and cut into cubes. Heat the olive oil in a large frying pan. Tip in the celeriac and fry for 5 mins until it turns golden. Season well with salt and pepper. Stir in the rosemary, thyme, bay and cardamom pods, then pour over 200ml water, enough to nearly cover the celeriac. Turn the heat to low, partially cover the pan and leave to simmer for 25-30 mins. After 25-30 mins, the celeriac should be soft and most of the water will have evaporated. Drain away any remaining water, then remove the herb sprigs, bay and cardamom pods. Lightly crush with a potato masher, then finish with a glug of olive oil and season to taste. Spoon the beef bourguignon into serving bowls and place a large spoonful of the celeriac mash on top. Garnish with one of the bay leaves, if you like."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Beef Brisket Pot Roast",
+                "mealId": "25",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+                "mealDescription": "Beef Brisket, Salt, Onion, Garlic, Thyme, Rosemary, Bay Leaves, beef stock, Carrots, Mustard, Potatoes",
+                "mealPrice": "12",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely. Using a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern. Salt the brisket well and let it sit at room temperature for 30 minutes. 2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions. Pat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.) Turn the brisket over and cook for a few minutes more to brown the other side. 3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil. Add the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes. 4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme. Move the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop. Cover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly. 5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender. 6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs. 7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step. To make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm. 8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the grain of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices. Serve with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Beef Dumpling Stew",
+                "mealId": "26",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
+                "mealDescription": "Olive Oil, Butter, Beef, Plain Flour, Garlic, Onions, Celery, Carrots, Leek, Swede, Red Wine, Beef Stock, Bay Leaf, Thyme, Parsley, Plain Flour, Baking Powder, Suet, Water",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Preheat the oven to 180C/350F/Gas 4. For the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides. Sprinkle over the flour and cook for a further 2-3 minutes. Add the garlic and all the vegetables and fry for 1-2 minutes. Stir in the wine, stock and herbs, then add the Worcestershire sauce and balsamic vinegar, to taste. Season with salt and freshly ground black pepper. Cover with a lid, transfer to the oven and cook for about two hours, or until the meat is tender. For the dumplings, sift the flour, baking powder and salt into a bowl. Add the suet and enough water to form a thick dough. With floured hands, roll spoonfuls of the dough into small balls. After two hours, remove the lid from the stew and place the balls on top of the stew. Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender. (If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.) To serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings. Sprinkle with chopped parsley."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Beef Sunday Roast",
+                "mealId": "27",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+                "mealDescription": "Beef, Broccoli, Potatoes, Carrots, plain flour, Eggs, milk, sunflower oil",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Cook the Broccoli and Carrots in a pan of boiling water until tender. Roast the Beef and Potatoes in the oven for 45mins, the potatoes may need to be checked regularly to not overcook. To make the Yorkshire puddings: Heat oven to 230C/fan 210C/gas 8. Drizzle a little sunflower oil evenly into 2 x 4-hole Yorkshire pudding tins or a 12-hole non-stick muffin tin and place in the oven to heat through To make the batter, tip 140g plain flour into a bowl and beat in four eggs until smooth. Gradually add 200ml milk and carry on beating until the mix is completely lump-free. Season with salt and pepper. Pour the batter into a jug, then remove the hot tins from the oven. Carefully and evenly pour the batter into the holes. Place the tins back in the oven and leave undisturbed for 20-25 mins until the puddings have puffed up and browned. Serve immediately. Plate up and add the Gravy as desired."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Beef Wellington",
+                "mealId": "28",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+                "mealDescription": "mushrooms, English Mustard, Olive Oil, Beef Fillet, Parma ham, Puff Pastry, Flour, Egg Yolks",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Put the mushrooms into a food processor with some seasoning and pulse to a rough paste. Scrape the paste into a pan and cook over a high heat for about 10 mins, tossing frequently, to cook out the moisture from the mushrooms. Spread out on a plate to cool. Heat in a frying pan and add a little olive oil. Season the beef and sear in the hot pan for 30 secs only on each side. (You don't want to cook it at this stage, just colour it). Remove the beef from the pan and leave to cool, then brush all over with the mustard. Lay a sheet of cling film on a work surface and arrange the Parma ham slices on it, in slightly overlapping rows. With a palette knife, spread the mushroom paste over the ham, then place the seared beef fillet in the middle. Keeping a tight hold of the cling film from the edge, neatly roll the Parma ham and mushrooms around the beef to form a tight barrel shape. Twist the ends of the cling film to secure. Chill for 15-20 mins to allow the beef to set and keep its shape. Roll out the puff pastry on a floured surface to a large rectangle, the thickness of a £1 coin. Remove the cling film from the beef, then lay in the centre. Brush the surrounding pastry with egg yolk. Fold the ends over, the wrap the pastry around the beef, cutting off any excess. Turn over, so the seam is underneath, and place on a baking sheet. Brush over all the pastry with egg and chill for about 15 mins to let the pastry rest. Heat the oven to 200C, 400F, gas 6. Lightly score the pastry at 1cm intervals and glaze again with beaten egg yolk. Bake for 20 minutes, then lower the oven setting to 180C, 350F, gas 4 and cook for another 15 mins. Allow to rest for 10-15 mins before slicing and serving with the side dishes of your choice. The beef should still be pink in the centre when you serve it."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Big Mac",
+                "mealId": "29",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+                "mealDescription": "Minced Beef, Olive Oil, Sesame Seed Burger Buns, Onion, Iceberg Lettuce, Cheese, Dill Pickles, Mayonnaise, White Wine Vinegar, Pepper, Mustard, Onion Salt, Garlic Powder, Paprika",
+                "mealPrice": "7",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use. 2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. Heat oil in a large frypan over high heat. In 2 batches, cook beef patties for 1-2 minutes each side until lightly charred and cooked through. Remove from heat and keep warm. Repeat with remaining two patties. 3. Carefully slice each burger bun into three acrossways, then lightly toast. 4. To assemble the burgers, spread a little Big Mac sauce over the bottom base. Top with some chopped onion, shredded lettuce, slice of cheese, beef patty and some pickle slices. Top with the middle bun layer, and spread with more Big Mac sauce, onion, lettuce, pickles, beef patty and then finish with more sauce. Top with burger lid to serve. 5. After waiting half an hour for your food to settle, go for a jog."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Bitterballen",
+                "mealId": "30",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg",
+                "mealDescription": "Butter, Flour, Beef Stock, Onion, Parsley, Beef, Salt, Pepper, Nutmeg, Flour, Eggs, Breadcrumbs",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce. Pour the mixture into a shallow container, cover and refrigerate for several hours, or until the sauce has solidified. Take a heaping tablespoon of the cold, thick sauce and quickly roll it into a small ball. Roll lightly through the flour, then the egg and finally the breadcrumbs. Make sure that the egg covers the whole surface of the bitterbal. When done, refrigerate the snacks while the oil in your fryer heats up to 190C (375F). Fry four bitterballen at a time, until golden. Serve on a plate with a nice grainy or spicy mustard."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Corned Beef and Cabbage",
+                "mealId": "31",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg",
+                "mealDescription": "Beef Brisket, Small Potatoes, Carrots, Cabbage",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "1 Place corned beef in large pot or Dutch oven and cover with water. Add the spice packet that came with the corned beef. Cover pot and bring to a boil, then reduce to a simmer. Simmer approximately 50 minutes per pound or until tender. 2 Add whole potatoes and peeled and cut carrots, and cook until the vegetables are almost tender. Add cabbage and cook for 15 more minutes. Remove meat and let rest 15 minutes. 3 Place vegetables in a bowl and cover. Add as much broth (cooking liquid reserved in the Dutch oven or large pot) as you want. Slice meat across the grain."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Gołąbki",
+                "mealId": "32",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg",
+                "mealDescription": "abbage, Butter, Onion, Ground Beef, Ground Pork, Rice, Garlic, Salt, Black Pepper, Tomato Puree",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "25",
+                "mealRecipe": "Bring a large pot of lightly salted water to a boil. Place cabbage head into water, cover pot, and cook until cabbage leaves are slightly softened enough to remove from head, 3 minutes. Remove cabbage from pot and let cabbage sit until leaves are cool enough to handle, about 10 minutes. Remove 18 whole leaves from the cabbage head, cutting out any thick tough center ribs. Set whole leaves aside. Chop the remainder of the cabbage head and spread it in the bottom of a casserole dish. Melt butter in a large skillet over medium-high heat. Cook and stir onion in hot butter until tender, 5 to 10 minutes. Cool. Stir onion, beef, pork, rice, garlic, 1 teaspoon salt, and 1/4 teaspoon pepper together in a large bowl. Preheat oven to 350 degrees F (175 degrees C). Place about 1/2 cup beef mixture on a cabbage leaf. Roll cabbage around beef mixture, tucking in sides to create an envelope around the meat. Repeat with remaining leaves and meat mixture. Place cabbage rolls in a layer atop the chopped cabbage in the casserole dish; season rolls with salt and black pepper. Whisk tomato soup, tomato juice, and ketchup together in a bowl. Pour tomato soup mixture over cabbage rolls and cover dish wish aluminum foil. Bake in the preheated oven until cabbage is tender and meat is cooked through, about 1 hour."
+            },
+            {
+                "mealCategory": "Beef",
+                "mealName": "Szechuan Beef",
+                "mealId": "33",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+                "mealDescription": "Beef, Salt, Sesame Seed Oil, Pepper, Egg White, Starch, Oil, Ginger, Garlic, Onion, Carrots, Green Pepper, Celery, Mushrooms, Cooking wine, Water, Oyster Sauce, Hotsauce, Sugar, Soy Sauce",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "STEP 1 - MARINATING THE BEEF In a bowl, add the beef, salt, sesame seed oil, white pepper, egg white, 2 Tablespoon of corn starch and 1 Tablespoon of oil. STEP 2 - STIR FRY First Cook the beef by adding 2 Tablespoon of oil until the beef is golden brown. Set the beef aside In a wok add 1 Tablespoon of oil, minced ginger, minced garlic and stir-fry for few seconds. Next add all of the vegetables and then add sherry cooking wine and 1 cup of water. To make the sauce add oyster sauce, hot pepper sauce, and sugar. add the cooked beef and 1 spoon of soy sauce To thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness."
+            }],
+
+        "lamb":[
+            {
+                "mealCategory": "Lamb",
+                "mealName": "Lamb and Lemon Souvlaki",
+                "mealId": "34",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+                "mealDescription": "Garlic, Sea Salt, Olive Oil, Lemon, Dill, Lamb Leg, Pita Bread",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Pound the garlic with sea salt in a pestle and mortar (or use a small food processor), until the garlic forms a paste. Whisk together the oil, lemon juice, zest, dill and garlic. Mix in the lamb and combine well. Cover and marinate for at least 2 hrs or overnight in the fridge. If you’re going to use bamboo skewers, soak them in cold water. If you’ve prepared the lamb the previous day, take it out of the fridge 30 mins before cooking. Thread the meat onto the soaked or metal skewers. Heat the grill to high or have a hot griddle pan or barbecue ready. Cook the skewers for 2-3 mins on each side, basting with the remaining marinade. Heat the pitta or flatbreads briefly, then stuff with the souvlaki. Add Greek salad (see 'Goes well with', right) and Tzatziki (below), if you like."
+            },
+            {
+                "mealCategory": "Lamb",
+                "mealName": "Lamb tomato and sweet spices",
+                "mealId": "35",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+                "mealDescription": "olive oil, ginger, garlic, tomatoes, lemon juice, caster sugar, vine leaves, fennel bulb, lamb mince, onion, potato, basmati rice, chopped parsley, coriander, lemon juice, garlic, clove, cinnamon, tomatoes",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use. Basmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four. First make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out. To make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes. While the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely. Lay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long by 1cm-wide strip. Fold the sides of the leaf over the filling, then roll it tightly from bottom to top, in a cigar shape. Place in the pan, seam down, and repeat with the remaining leaves, placing them tightly next to each other in lines or circles (in two layers if necessary). Pour the sauce over the leaves (and, if needed, add water just to cover). Place a plate on top, to weigh the leaves down, then cover with a lid. Bring to a boil, reduce the heat and cook on a bare simmer for 70 minutes. Most of the liquid should evaporate. Remove from the heat, and leave to cool a little - they are best served warm. When serving, bring to the table in the pan - it looks great. Serve a few vine leaves and fennel slices with warm rice. Spoon the braising juices on top and garnish with coriander."
+            },
+            {
+                "mealCategory": "Lamb",
+                "mealName": "Lamb Tzatziki Burgers",
+                "mealId": "36",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+                "mealDescription": "Bulgur Wheat, Lamb Mince, Cumin, Coriander, Paprika, Garlic, Olive Oil, Bun, Cucumber, Greek Yogurt, Mint",
+                "mealPrice": "7",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "Tip the bulghar into a pan, cover with water and boil for 10 mins. Drain really well in a sieve, pressing out any excess water. To make the tzatziki, squeeze and discard the juice from the cucumber, then mix into the yogurt with the chopped mint and a little salt. Work the bulghar into the lamb with the spices, garlic (if using) and seasoning, then shape into 4 burgers. Brush with a little oil and fry or barbecue for about 5 mins each side until cooked all the way through. Serve in the buns (toasted if you like) with the tzatziki, tomatoes, onion and a few mint leaves."
+            },
+            {
+                "mealCategory": "Lamb",
+                "mealName": "Lancashire hotpot",
+                "mealId": "37",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg",
+                "mealDescription": "Butter, Lamb, Lamb Kidney, Onions, Carrots, Plain Flour, Worcestershire Sauce, Chicken Stock, Bay Leaves, Potatoes",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Heat oven to 160C/fan 140C/gas 3. Heat some dripping or butter in a large shallow casserole dish, brown the lamb in batches, lift to a plate, then repeat with the kidneys. Fry the onions and carrots in the pan with a little more dripping until golden. Sprinkle over the flour, allow to cook for a couple of mins, shake over the Worcestershire sauce, pour in the stock, then bring to the boil. Stir in the meat and bay leaves, then turn off the heat. Arrange the sliced potatoes on top of the meat, then drizzle with a little more dripping. Cover, then place in the oven for about 1½ hrs until the potatoes are cooked. Remove the lid, brush the potatoes with a little more dripping, then turn the oven up to brown the potatoes, or finish under the grill for 5-8 mins until brown."
+            },
+            {
+                "mealCategory": "Lamb",
+                "mealName": "Stuffed Lamb Tomatoes",
+                "mealId": "38",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
+                "mealDescription": "Tomatoes,  Sugar,  Olive Oil,  Onion,  Garlic Clove,  Lamb,  Cinnamon,  Tomato Puree,  Rice,  Chicken Stock,  Dill,  Chopped Parsley,  Mint",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Heat oven to 180C/160C fan/gas 4. Slice the tops off the tomatoes and reserve. Scoop out most of the pulp with a teaspoon, being careful not to break the skin. Finely chop the pulp, and keep any juices. Sprinkle the insides of the tomatoes with a little sugar to take away the acidity, then place them on a baking tray. Heat 2 tbsp olive oil in a large frying pan, add the onion and garlic, then gently cook for about 10 mins until soft but not coloured. Add the lamb, cinnamon and tomato purée, turn up the heat, then fry until the meat is browned. Add the tomato pulp and juice, the rice and the stock. Season generously. Bring to the boil, then simmer for 15 mins or until the rice is tender and the liquid has been absorbed. Set aside to cool a little, then stir in the herbs. Stuff the tomatoes up to the brim, top tomatoes with their lids, drizzle with 2 tbsp more olive oil, sprinkle 3 tbsp water into the tray, then bake for 35 mins. Serve with salad and crusty bread, hot or cold."
+            },
+            {
+                "mealCategory": "Lamb",
+                "mealName": "Kapsalon",
+                "mealId": "39",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+                "mealDescription": "Fries,  Doner Meat,  Garlic sauce,  Hotsauce,  Lettuce,  Tomato,  Cucumber,  Gouda cheese",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Cut the meat into strips. Heat oil in a pan and fry the strips for 6 minutes until it's ready. Bake the fries until golden brown in a deep fryrer. When ready transfer to a backing dish. Make sure the fries are spread over the whole dish. Cover the fries with a new layer of meat and spread evenly. Add a layer of cheese over the meat. You can also use grated cheese. When done put in the oven for a few minutes until the cheese is melted. Chop the lettuce, tomato and cucumber in small pieces and mix together. for a basic salad. As extra you can add olives jalapenos and a red union. Dived the salad over the dish and Serve with garlicsauce and hot sauce"
+            }],
+
+        "pork":[
+            {
+                "mealCategory": "Pork",
+                "mealName": "Bubble & Squeak",
+                "mealId": "40",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+                "mealDescription": "Butter,  Bacon,  Onion,  Garlic Clove,  Brussels Sprouts,  Potatoes",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Melt the fat in a non-stick pan, allow it to get nice and hot, then add the bacon. As it begins to brown, add the onion and garlic. Next, add the sliced sprouts or cabbage and let it colour slightly. All this will take 5-6 mins. Next, add the potato. Work everything together in the pan and push it down so that the mixture covers the base of the pan – allow the mixture to catch slightly on the base of the pan before turning it over and doing the same again. It’s the bits of potato that catch in the pan that define the term ‘bubble and squeak’, so be brave and let the mixture colour. Cut into wedges and serve."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "BBQ Pork Sloppy Joes",
+                "mealId": "41",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+                "mealDescription": "Potatoes,  Red Onions,  Garlic,  Lime,  Bread,  Pork,  Barbeque Sauce,  Hotsauce,  Tomato Ketchup,  Sugar,  Vegetable Oil,  Salt,  Pepper",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "1 Preheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes. 2 Meanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns. 3 To bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle. 4 Heat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes. 5 While pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper. 6 Meanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Bigos",
+                "mealId": "42",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
+                "mealDescription": "Bacon,  Kielbasa,  Pork,  Flour,  Garlic,  Onion,  Mushrooms,  Cabbage,  Sauerkraut,  Red Wine,  Bay Leaf,  Basil,  Marjoram,  Paprika,  Caraway Seed,  Hotsauce,  Beef Stock,  Tomato Puree,  Diced Tomatoes,  Worcestershire Sauce",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Preheat the oven to 350 degrees F (175 degrees C). Heat a large pot over medium heat. Add the bacon and kielbasa; cook and stir until the bacon has rendered its fat and sausage is lightly browned. Use a slotted spoon to remove the meat and transfer to a large casserole or Dutch oven. Coat the cubes of pork lightly with flour and fry them in the bacon drippings over medium-high heat until golden brown. Use a slotted spoon to transfer the pork to the casserole. Add the garlic, onion, carrots, fresh mushrooms, cabbage and sauerkraut. Reduce heat to medium; cook and stir until the carrots are soft, about 10 minutes. Do not let the vegetables brown. Deglaze the pan by pouring in the red wine and stirring to loosen all of the bits of food and flour that are stuck to the bottom. Season with the bay leaf, basil, marjoram, paprika, salt, pepper, caraway seeds and cayenne pepper; cook for 1 minute. Mix in the dried mushrooms, hot pepper sauce, Worcestershire sauce, beef stock, tomato paste and tomatoes. Heat through just until boiling. Pour the vegetables and all of the liquid into the casserole dish with the meat. Cover with a lid. Bake in the preheated oven for 2 1/2 to 3 hours, until meat is very tender."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Crispy Sausages and Greens",
+                "mealId": "43",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
+                "mealDescription": "Kale,  Italian Fennel Sausages,  Cabbage,  Garlic Clove,  Onion,  Shiitake Mushrooms,  Chicken Stock,  Salt,  Pepper",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Preheat the oven to 350°. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1 pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll sauté the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour ½ cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more. Meanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine)."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Pork Cassoulet",
+                "mealId": "44",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+                "mealDescription": "Goose Fat,  Pork,  Onion,  Garlic,  Carrots,  Fennel Seeds,  Red Wine Vinegar,  Vegetable Stock,  Tomato Puree,  Rosemary,  Parsley,  Haricot Beans,  Breadcrumbs,  Oil,  Bread,  Broccoli",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "25",
+                "mealRecipe": "Heat oven to 140C/120C fan/gas 1. Put a large ovenproof pan (with a tight-fitting lid) on a high heat. Add your fat and diced meat, cook for a few mins to seal the edges, giving it a quick stir to cook evenly. Reduce the heat to low, add the sliced onion, whole garlic cloves, carrot and fennel seeds, and cook gently to soften the veg for a few mins. Pour over the red wine vinegar, scraping any meaty bits off the bottom of the pan. Add the stock, tomato purée, and half the rosemary and parsley. Bring to the boil and simmer for 10 mins, then season, cover with a lid and put into the oven for 2 hrs, removing the lid for the final hour of cooking. Stir occasionally and add the beans with 30 mins to go. Remove the pan from the oven and heat the grill. Scatter the top with the remaining herbs and breadcrumbs, drizzle a little oil over the top, and return to the oven for 5-10 mins, until the breadcrumbs are golden. Serve with crusty bread and green veg."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Skillet Apple Pork Chops",
+                "mealId": "45",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+                "mealDescription": "Potatoes,  Apples,  Garlic,  Lemon,  Pork,  Zucchini,  Chicken Stock,  Vegetable Oil,  Sugar,  Butter",
+                "mealPrice": "12",
+                "mealStock": "100",
+                "mealPrepTime": "25",
+                "mealRecipe": "Serves 2 1. Adjust racks to top and middle positions and preheat oven to 450 degrees. Wash and dry all produce. Dice sweet potatoes into 1/2-inch pieces. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 12 minutes (we'll roast the zucchini then). 2. Meanwhile, halve and core apple; thinly slice into half-moons. Peel and finely chop garlic. Quarter lemon. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper. Set aside. 3. Pat pork dry with paper towels and season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and cook until browned and cooked through, 4-5 minutes per side. Turn off heat; transfer to a plate. 4. Once sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more. 5. Meanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat. Add apple and season with salt and pepper. Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes. Add garlic; cook until fragrant, 30 seconds. Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4). Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes. Season with salt and pepper. 6. Remove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice. Divide pork, zucchini, and sweet potatoes between plates. Top pork with glazed apple sauce. Top zucchini with a squeeze of lemon juice."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Sweet and Sour Pork",
+                "mealId": "46",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+                "mealDescription": "Pork,  Egg,  Water,  Salt,  Sugar,  Soy Sauce,  Starch,  Tomato Puree,  Vinegar,  Coriander",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Preparation 1. Crack the egg into a bowl. Separate the egg white and yolk. Sweet and Sour Pork 2. Slice the pork tenderloin into strips. 3. Prepare the marinade using a pinch of salt, one teaspoon of starch, two teaspoons of light soy sauce, and an egg white. 4. Marinade the pork strips for about 20 minutes. 5. Put the remaining starch in a bowl. Add some water and vinegar to make a starchy sauce. Sweet and Sour Pork Cooking Instructions 1. Pour the cooking oil into a wok and heat to 190°C (375°F). Add the marinated pork strips and fry them until they turn brown. Remove the cooked pork from the wok and place on a plate. 2. Leave some oil in the wok. Put the tomato sauce and white sugar into the wok, and heat until the oil and sauce are fully combined. 3. Add some water to the wok and thoroughly heat the sweet and sour sauce before adding the pork strips to it. 4. Pour in the starchy sauce. Stir-fry all the ingredients until the pork and sauce are thoroughly mixed together. 5. Serve on a plate and add some coriander for decoration."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Toad In The Hole",
+                "mealId": "47",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
+                "mealDescription": "sausages,  vegetable oil,  plain flour,  eggs,  horseradish,  milk,  cherry tomatoes",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Preheat the oven to 200°C/fan180°C/gas 6. fry sausages in a non-stick pan until browned. Drizzle vegetable oil in a 30cm x 25cm x 6cm deep roasting tray and heat in the oven for 5 minutes. Put the plain flour in a bowl, crack in the medium free-range eggs, then stir in the grated horseradish. Gradually beat in the semi-skimmed milk. Season. Put the sausages into the hot roasting tray and pour over the batter. Top with cherry tomatoes on the vine and cook for 30 minutes until puffed and golden."
+            },
+            {
+                "mealCategory": "Pork",
+                "mealName": "Vietnamese Grilled Pork",
+                "mealId": "48",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+                "mealDescription": "Pork,  Rice Vermicelli,  Egg Rolls,  Challots,  Garlic,  Sugar,  Fish Sauce,  Soy sauce,  Pepper,  Olive Oil,  Cucumber,  Mint,  Peanuts",
+                "mealPrice": "11",
+                "mealStock": "100",
+                "mealPrepTime": "25",
+                "mealRecipe": "Slice the uncooked pork thinly, about ⅛. It helps to slightly freeze it (optional). Mince garlic and shallots. Mix in a bowl with sugar, fish sauce, thick soy sauce, pepper, and oil until sugar dissolves. Marinate the meat for 1 hour, or overnight for better results. Bake the pork at 375F for 10-15 minutes or until about 80% cooked. Finish cooking by broiling in the oven until a nice golden brown color develops, flipping the pieces midway. Assemble your bowl with veggies, noodles, and garnish. Many like to mix the whole bowl up and pour the fish sauce on top, but I like to make individual bites and sauce it slowly."
+            }],
+
+        "seafood":[
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Baked salmon",
+                "mealId": "49",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+                "mealDescription": "Fennel,  Parsley,  Lemon,  Cherry Tomatoes,  Olive Oil,  Salmon,  Black Olives",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest. Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve."
+            },
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Cajun spiced fish tacos",
+                "mealId": "50",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+                "mealDescription": "cajun,  cayenne pepper,  white fish,  vegetable oil,  flour tortilla,  avocado,  little gem lettuce,  spring onion,  salsa,  sour cream,  lemon,  garlic",
+                "mealPrice": "6",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery. On a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over. Heat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan. Meanwhile, prepare the dressing by combining all the ingredients with a little seasoning. Soften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing."
+            },
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Honey Teriyaki Salmon",
+                "mealId": "51",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+                "mealDescription": "Salmon,  Olive oil,  Soy Sauce,  Sake,  Sesame Seed",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together. Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens. Garnish with sesame and serve immediately."
+            },
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Kung Po Prawns",
+                "mealId": "52",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+                "mealDescription": "Prawns,  Soy Sauce,  Tomato Puree,  Corn Flour,  Caster Sugar,  Sunflower Oil,  Peanuts,  Chilli,  Brown Sugar,  Garlic Clove,  Water Chestnut,  Ginger",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Mix the cornflour and 1 tbsp soy sauce, toss in the prawns and set aside for 10 mins. Stir the vinegar, remaining soy sauce, tomato purée, sugar and 2 tbsp water together to make a sauce. When you’re ready to cook, heat a large frying pan or wok until very hot, then add 1 tbsp oil. Fry the prawns until they are golden in places and have opened out– then tip them out of the pan. Heat the remaining oil and add the peanuts, chillies and water chestnuts. Stir-fry for 2 mins or until the peanuts start to colour, then add the ginger and garlic and fry for 1 more min. Tip in the prawns and sauce and simmer for 2 mins until thickened slightly. Serve with rice."
+            },
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Salmon Avocado Salad",
+                "mealId": "53",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+                "mealDescription": "Salmon,  Avocado,  Cucumber,  Spinach,  Mint,  Lime,  Honey,  Olive Oil",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Season the salmon, then rub with oil. Mix the dressing ingredients together. Halve, stone, peel and slice the avocados. Halve and quarter the cucumber lengthways, then cut into slices. Divide salad, avocado and cucumber between four plates, then drizzle with half the dressing. Heat a non-stick pan. Add the salmon and fry for 3-4 mins on each side until crisp but still moist inside. Put a salmon fillet on top of each salad and drizzle over the remaining dressing. Serve warm."
+            },
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Tuna and Egg Briks",
+                "mealId": "54",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+                "mealDescription": "Olive Oil,  Spring Onions,  Spinach,  Filo Pastry,  Tuna,  Eggs,  Hotsauce,  Tomatoes,  Cucumber,  Lemon Juice,  Apricot Jam",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Heat 2 tsp of the oil in a large saucepan and cook the spring onions over a low heat for 3 minutes or until beginning to soften. Add the spinach, cover with a tight-fitting lid and cook for a further 2–3 minutes or until tender and wilted, stirring once or twice. Tip the mixture into a sieve or colander and leave to drain and cool. Using a saucer as a guide, cut out 24 rounds about 12.5 cm (5 in) in diameter from the filo pastry, cutting 6 rounds from each sheet. Stack the filo rounds in a pile, then cover with cling film to prevent them from drying out. When the spinach mixture is cool, squeeze out as much excess liquid as possible, then transfer to a bowl. Add the tuna, eggs, hot pepper sauce, and salt and pepper to taste. Mix well. Preheat the oven to 200°C (400°F, gas mark 6). Take one filo round and very lightly brush with some of the remaining oil. Top with a second round and brush with a little oil, then place a third round on top and brush with oil. Place a heaped tbsp of the filling in the middle of the round, then fold the pastry over to make a half-moon shape. Fold in the edges, twisting them to seal, and place on a non-stick baking sheet. Repeat with the remaining pastry and filling to make 8 briks in all. Lightly brush the briks with the remaining oil. Bake for 12–15 minutes or until the pastry is crisp and golden brown. Meanwhile, combine the tomatoes and cucumber in a bowl and sprinkle with the lemon juice and seasoning to taste. Serve the briks hot with this salad and the chutney."
+            },
+            {
+                "mealCategory": "Seafood",
+                "mealName": "Tuna Nicoise",
+                "mealId": "55",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+                "mealDescription": "Potatoes,  Olive Oil,  Eggs,  Red Wine Vinegar,  Capers,  Sunflower Oil,  Red Onions,  Spinach,  Tuna",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Heat oven to 200C/fan 180C/gas 6. Toss the potatoes with 2 tsp oil and some seasoning. Tip onto a large baking tray, then roast for 20 mins, stirring halfway, until crisp, golden and cooked through. Meanwhile, put eggs in a small pan of water, bring to the boil, then simmer for 8-10 mins, depending on how you like them cooked. Plunge into a bowl of cold water to cool for a few mins. Peel away the shells, then cut into halves. In a large salad bowl, whisk together the remaining oil, red wine vinegar, capers and chopped tomatoes. Season, tip in the onion, spinach, tuna and potatoes, then gently toss together. Top with the eggs, then serve straight away."
+            }],
+
+        "pasta":[
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Chilli prawn linguine",
+                "mealId": "56",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+                "mealDescription": "Linguine Pasta,  Sugar Snap Peas,  Olive Oil,  Garlic Clove,  Red Chilli,  King Prawns,  Cherry Tomatoes,  Basil Leaves,  Lettuce,  Bread,  Fromage Frais,  Lime,  Caster Sugar",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside. Cook the pasta according to the packet instructions. Add the sugar snap peas for the last minute or so of cooking time. Meanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown. Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink. Add the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften. Drain the pasta and sugar snaps well, then toss into the prawn mixture. Tear in the basil leaves, stir, and season with salt and pepper. Serve with salad leaves drizzled with the lime dressing, and warm crusty bread."
+            },
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Fettucine alfredo",
+                "mealId": "57",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+                "mealDescription": "Clotted Cream,  Butter,  Corn Flour,  Parmesan Cheese,  Nutmeg,  Fettuccine,  Parsley",
+                "mealPrice": "8",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "In a medium saucepan, stir the clotted cream, butter and cornflour over a low-ish heat and bring to a low simmer. Turn off the heat and keep warm. Meanwhile, put the cheese and nutmeg in a small bowl and add a good grinding of black pepper, then stir everything together (don’t add any salt at this stage). Put the pasta in another pan with 2 tsp salt, pour over some boiling water and cook following pack instructions (usually 3-4 mins). When cooked, scoop some of the cooking water into a heatproof jug or mug and drain the pasta, but not too thoroughly. Add the pasta to the pan with the clotted cream mixture, then sprinkle over the cheese and gently fold everything together over a low heat using a rubber spatula. When combined, splash in 3 tbsp of the cooking water. At first, the pasta will look wet and sloppy: keep stirring until the water is absorbed and the sauce is glossy. Check the seasoning before transferring to heated bowls. Sprinkle over some chives or parsley, then serve immediately."
+            },
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Grilled Mac and Cheese Sandwich",
+                "mealId": "58",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+                "mealDescription": "Macaroni,  Plain Flour,  Mustard Powder,  Garlic powder,  Kosher salt,  Black pepper,  Cayenne pepper,  Butter,  Whole Milk,  Heavy Cream,  Monterey Jack Cheese,  Butter,  garlic powder,  Bread,  Cheddar Cheese,  Colby Jack Cheese,  Butter",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Make the mac and cheese 1. Bring a medium saucepan of generously salted water (you want it to taste like seawater) to a boil. Add the pasta and cook, stirring occasionally, until al dente, 8 to 10 minutes, or according to the package directions. The pasta should be tender but still chewy. 2. While the pasta is cooking, in a small bowl, whisk together the flour, mustard powder, garlic powder, salt, black pepper, and cayenne pepper. 3. Drain the pasta in a colander. Place the empty pasta pan (no need to wash it) over low heat and add the butter. When the butter has melted, whisk in the flour mixture and continue to cook, whisking frequently, until the mixture is beginning to brown and has a pleasant, nutty aroma, about 1 minute. Watch carefully so it does not scorch on the bottom of the pan. 4. Slowly whisk the milk and cream into the flour mixture until everything is really well combined. Cook, whisking constantly, until the sauce is heated through and just begins to thicken, about 2 minutes. Remove from the heat. Gradually add the cheese while stirring constantly with a wooden spoon or silicone spatula and keep stirring until the cheese has melted into the sauce. Then stir in the drained cooked pasta. 5. Line a 9-by-13-inch (23-by-33-centimeter) rimmed baking sheet with parchment paper or aluminum foil. Coat the paper or foil with nonstick cooking spray or slick it with butter. Pour the warm mac and cheese onto the prepared baking sheet and spread it evenly with a spatula. Coat another piece of parchment paper with cooking spray or butter and place it, oiled or buttered side down, directly on the surface of the mac and cheese. Refrigerate until cool and firm, about 1 hour. Make the grilled cheese 6. Heat a large cast-iron or nonstick skillet over medium-low heat. 7. In a small bowl, stir together the 4 tablespoons (55 grams) butter and garlic powder until well blended. 8. Remove the mac and cheese from the refrigerator and peel off the top layer of parchment paper. Carefully cut into 8 equal pieces. Each piece will make 1 grilled mac and cheese sandwich. (You can stash each individual portion in a double layer of resealable plastic bags and refrigerate for up to 3 days or freeze it for up to 1 month.) 9. Spread 3/4 teaspoon garlic butter on one side of each bread slice. Place half of the slices, buttered-side down, on a clean cutting board. Top each with one slice of Cheddar, then 1 piece of the mac and cheese. (Transfer from the baking sheet by scooting your hand or a spatula under each piece of mac and cheese and then flipping it over onto a sandwich.) Place 1 slice of Jack on top of each. Finish with the remaining bread slices, buttered-side up. 10. Using a wide spatula, place as many sandwiches in the pan as will fit without crowding it. Cover and cook until the bottoms are nicely browned, about 4 minutes. Turn and cook until the second sides are browned, the cheese is melted, and the mac and cheese is heated through, about 4 minutes more. 11. Repeat with the remaining ingredients. Cut the sandwiches in half, if desired, and serve."
+            },
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Lasagna Sandwiches",
+                "mealId": "59",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
+                "mealDescription": "Sour Cream,  Chopped Onion,  Dried Oregano,  Salt,  Bread,  Bacon,  Tomato,  Mozzarella,  Butter",
+                "mealPrice": "9",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "1. In a small bowl, combine the first four ingredients; spread on four slices of bread. Layer with bacon, tomato and cheese; top with remaining bread. 2. In a large skillet or griddle, melt 2 tablespoons butter. Toast sandwiches until lightly browned on both sides and cheese is melted, adding butter if necessary. Nutrition Facts 1 sandwich: 445 calories, 24g fat (12g saturated fat), 66mg cholesterol, 1094mg sodium, 35g carbohydrate (3g sugars, 2g fiber), 21g protein."
+            },
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Pilchard puttanesca",
+                "mealId": "60",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+                "mealDescription": "Spaghetti,  Olive Oil,  Onion,  Garlic,  Red Chilli,  Tomato Puree,  Pilchards,  Black Olives,  Parmesan",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "20",
+                "mealRecipe": "Cook the pasta following pack instructions. Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften. Stir in the tomato purée and cook for 1 min, then add the pilchards with their sauce. Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins. Drain the pasta and add to the pan with 2-3 tbsp of the cooking water. Toss everything together well, then divide between plates and serve, scattered with Parmesan."
+            },
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Spaghetti alla Carbonara",
+                "mealId": "61",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+                "mealDescription": "Spaghetti,  Egg Yolks,  Salt,  Bacon,  Pecorino,  Black Pepper",
+                "mealPrice": "7",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale e tagliatelo prima a fette e poi a striscioline spesse circa 1cm . La cotenna avanzata potrà essere riutilizzata per insaporire altre preparazioni. Versate i pezzetti in una padella antiaderente e rosolate per circa 15 minuti a fiamma media, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte. Nel frattempo tuffate gli spaghetti nell’acqua bollente e cuoceteli per il tempo indicato sulla confezione. Intanto versate i tuorli in una ciotola, aggiungete anche la maggior parte del pecorino previsto dalla ricetta la parte restante servirà per guarnire la pasta. Insaporite con il pepe nero, amalgamate tutto con una frusta a mano. Aggiungete un cucchiaio di acqua di cottura per diluire il composto e mescolate. Intanto il guanciale sarà giunto a cottura, spegnete il fuoco e tenetelo da parte. Scolate la pasta al dente direttamente nel tegame con il guanciale e saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e pecorino nel tegame, saltate la pasta per amalgamare e se dovesse risultare troppo asciutta potete aggiungere poca acqua di cottura. Servite subito gli spaghetti alla carbonara insaporendoli con il pecorino avanzato e il pepe nero macinato."
+            },
+            {
+                "mealCategory": "Pasta",
+                "mealName": "Venetian Duck Ragu",
+                "mealId": "62",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+                "mealDescription": "Olive Oil,  Duck Legs,  Onions,  Garlic,  Cinnamon,  Plain Flour,  Red Wine,  Chopped Tomatoes,  Chicken Stock Cube,  Rosemary,  Bay Leaves,  Sugar,  Milk,  Paccheri Pasta,  Parmesan Cheese",
+                "mealPrice": "10",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Heat the oil in a large pan. Add the duck legs and brown on all sides for about 10 mins. Remove to a plate and set aside. Add the onions to the pan and cook for 5 mins until softened. Add the garlic and cook for a further 1 min, then stir in the cinnamon and flour and cook for a further min. Return the duck to the pan, add the wine, tomatoes, stock, herbs, sugar and seasoning. Bring to a simmer, then lower the heat, cover with a lid and cook for 2 hrs, stirring every now and then. Carefully lift the duck legs out of the sauce and place on a plate – they will be very tender so try not to lose any of the meat. Pull off and discard the fat, then shred the meat with 2 forks and discard the bones. Add the meat back to the sauce with the milk and simmer, uncovered, for a further 10-15 mins while you cook the pasta. Cook the pasta following pack instructions, then drain, reserving a cup of the pasta water, and add the pasta to the ragu. Stir to coat all the pasta in the sauce and cook for 1 min more, adding a splash of cooking liquid if it looks dry. Serve with grated Parmesan, if you like."
+            }],
+
+        "dessert":[
+            {
+                "mealCategory": "Dessert",
+                "mealName": "Banana Pancakes",
+                "mealId": "63",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+                "mealDescription": "Banana,  Eggs,  Baking Powder,  Vanilla Extract,  Oil,  Pecan Nuts,  Raspberries",
+                "mealPrice": "5",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla. Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries."
+            },
+            {
+                "mealCategory": "Dessert",
+                "mealName": "Carrot Cake",
+                "mealId": "64",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
+                "mealDescription": "Vegetable Oil,  Plain Flour,  Bicarbonate Of Soda,  Sugar,  Eggs,  Salt,  Cinnamon,  Carrots,  Walnuts,  Cream Cheese,  Caster Sugar,  Butter",
+                "mealPrice": "5",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "For the carrot cake, preheat the oven to 160C/325F/Gas 3. Grease and line a 26cm/10in springform cake tin. Mix all of the ingredients for the carrot cake, except the carrots and walnuts, together in a bowl until well combined. Stir in the carrots and walnuts. Spoon the mixture into the cake tin and bake for 1 hour 15 minutes, or until a skewer inserted into the middle comes out clean. Remove the cake from the oven and set aside to cool for 10 minutes, then carefully remove the cake from the tin and set aside to cool completely on a cooling rack. Meanwhile, for the icing, beat the cream cheese, caster sugar and butter together in a bowl until fluffy. Spread the icing over the top of the cake with a palette knife."
+            },
+            {
+                "mealCategory": "Dessert",
+                "mealName": "Chocolate Avocado Mousse",
+                "mealId": "65",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
+                "mealDescription": "Banana,  Cacao,  Avocado,  Honey,  Lemon Juice,  Vanilla,  Water,  Sea Salt",
+                "mealPrice": "6",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "1. Blend all the mousse ingredients together in your food processor until smooth. Add the cacao powder first and, as you blend, have all the ingredients to hand in order to adjust the ratios slightly as the size of avocados and bananas varies so much. The perfect ratio in order to avoid the dish tasting too much of either is to use equal amounts of both. 2. Taste and add a few drops of stevia if you feel you need more sweetness. 3. Fill little cups or shot glasses with the mousse, sprinkle with the cacao powder or nibs and serve. Tip If you don’t have a frozen banana to hand you can just use a normal one and then chill the mousse before serving for a cooling dessert."
+            },
+            {
+                "mealCategory": "Dessert",
+                "mealName": "Chocolate Caramel Crispy",
+                "mealId": "66",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
+                "mealDescription": "Mars Bar,  Butter,  Rice Krispies,  Milk Chocolate",
+                "mealPrice": "4",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "Grease and line a 20 x 20cm/8 x 8 baking tin with parchment paper. Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth. Pour over the rice krispies in a mixing bowl and mix until all the ingredients are evenly combined. Press evenly into the prepare baking tin and set aside. Melt the milk chocolate in the microwave or over a pan of barely simmering water. Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place. Once set slice into squares and serve!"
+            },
+            {
+                "mealCategory": "Dessert",
+                "mealName": "Honey Yogurt Cheesecake",
+                "mealId": "67",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg",
+                "mealDescription": "Digestive Biscuits,  Almonds,  Butter,  Greek Yogurt,  Mascarpone,  Eggs,  Lemon,  Orange,  Honey,  Fruit Mix",
+                "mealPrice": "4",
+                "mealStock": "100",
+                "mealPrepTime": "10",
+                "mealRecipe": "Heat oven to 160C/140C fan/gas 3. Crush the biscuits and most of the almonds inside a plastic food bag using a rolling pin. Mix with the butter, then press into the bottom of a deep, oval, 23cm dish (or something similar in size – a roasting tin, baking dish or cake tin will work). Bake for 10 mins until crisp. Stir or mash together the yogurt and mascarpone, then whisk in the eggs, one at a time. Stir in the lemon and orange zests, then stir in most of the honey, reserving about 3 tbsp. Spread over the biscuit base, cover loosely with foil and cook for 1 hr. Remove the foil and cook for 15 mins more until lightly golden and the top is firm with just the slightest wobble in the middle. Leave to cool. Can be kept in the fridge for up to 2 days. To serve, scatter with almonds, drizzle over the remaining honey, and hand around fresh fruit to go with it."
+            },
+            {
+                "mealCategory": "Dessert",
+                "mealName": "Timbits",
+                "mealId": "68",
+                "mealPicture": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
+                "mealDescription": "Flour,  Sugar,  Baking Powder,  Salt,  Egg,  Milk,  Oil,  Oil,  Icing Sugar",
+                "mealPrice": "4",
+                "mealStock": "100",
+                "mealPrepTime": "15",
+                "mealRecipe": "Sift together dry ingredients. Mix together wet ingredients and incorporate into dry. Stir until smooth. Drop by teaspoonfuls(no bigger) into hot oil (365 degrees, no hotter), turning after a few moments until golden brown on all sides. Remove and drain. Roll in cinnamon sugar while still warm and serve."
+            }],
+
+        "drinks":[
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Citrus Coke",
+                "mealId": "69",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg",
+                "mealDescription": "Lemon, Coke",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "1",
+                "mealRecipe": ""
+            },
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Coke and Drops",
+                "mealId": "70",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg",
+                "mealDescription": "Ice drops, Coke",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "1",
+                "mealRecipe": ""
+            },
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Darkwood Sling",
+                "mealId": "71",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/sxxsyq1472719303.jpg",
+                "mealDescription": "Orange Juice",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "1",
+                "mealRecipe": ""
+            },
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Frappé",
+                "mealId": "72",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/vqwryq1441245927.jpg",
+                "mealDescription": "Coffee, Whipped cream, Ice",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "2",
+                "mealRecipe": ""
+            },
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Jamaican Coffee",
+                "mealId": "73",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg",
+                "mealDescription": "Coffee",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "2",
+                "mealRecipe": ""
+            },
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Kurant Tea",
+                "mealId": "74",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg",
+                "mealDescription": "Tea, Lemon, Ice",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "2",
+                "mealRecipe": ""
+            },
+            {
+                "mealCategory": "Drinks",
+                "mealName": "Thai Iced Tea",
+                "mealId": "75",
+                "mealPicture": "https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg",
+                "mealDescription": "Tea, Ice",
+                "mealPrice": "3",
+                "mealStock": "100",
+                "mealPrepTime": "2",
+                "mealRecipe": ""
+            }]
+    }]
+}

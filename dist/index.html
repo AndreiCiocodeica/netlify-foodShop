@@ -1,0 +1,296 @@
+<!-- @format -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Da Crust - Food Shop</title>
+    <!--- link for google fonts -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap"
+    />
+    <!--- link for css file -->
+    <link rel="stylesheet" href="style/style.css" />
+    <link rel="stylesheet" href="style/responsive.css" />
+    <!--- link for font-awesome icons library -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- text animating library -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+      integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw=="
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!--* ==========Navbar========== -->
+      <div class="nav">
+        <nav class="navbar">
+          <h1 onclick="redirectToHomePage();">
+            <span>D</span>
+            <span>A</span>
+            &nbsp;
+            <span>C</span>
+            <span>R</span>
+            <span>U</span>
+            <span>S</span>
+            <span>T</span>
+            <i class="fas fa-drumstick-bite"></i>
+          </h1>
+
+          <div class="menu-nav">
+            <div class="nav-top">
+              <div class="close">
+                <i class="fas fa-times"></i>
+              </div>
+            </div>
+
+            <ul class="nav-list">
+              <li>
+                <a href="index.html" class="normal selected" id="home-page-btn"> Home </a>
+              </li>
+              <li>
+                <a href="menu.html" class="normal" id="menu-page-btn"> Menu </a>
+              </li>
+              <li>
+                <a href="order-online.html" class="normal" id="order-page-btn"> Order Online </a>
+              </li>
+              <li>
+                <a href="admin.html" class="normal" id="admin-page-btn"> Admin </a>
+              </li>
+              <li>
+                <a href="#contact" class="normal" id="contact-page-btn"> Contact </a>
+              </li>
+              <li class="order-btn">
+                <a href="order-online.html" id="order-btn">Order Online</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="hamburger">
+            <i class="fas fa-bars"></i>
+          </div>
+        </nav>
+      </div>
+      <!--* ==========End of Navbar========== -->
+
+      <!--* ==========Home Page========== -->
+      <div class="home-page">
+        <div class="left-side">
+          <p>OPEN FOR DELIVERY & PICK UP</p>
+          <h1>GET IT WHILE IT'S HOT</h1>
+          <button id="order-btn" onclick="window.location.href='order-online.html'">
+            Order Online
+          </button>
+        </div>
+      </div>
+      <!--* ==========End of Home Page========== -->
+
+      <!--* ==========Articles========== -->
+      <div class="articles">
+        <div>
+          <i class="fas fa-mobile-alt"></i>
+          <h4>ORDER ON THE GO</h4>
+          <p>Take orders online and provide an amazing ordering experience to your customers.</p>
+        </div>
+        <div>
+          <i class="fas fa-motorcycle"></i>
+          <h4>DOORSTEP DELIVERY</h4>
+          <p>
+            Enjoy your favorite dishes at work or home. Order now online! Ready to Deliver Your
+            Fresh Food As Soon As Possible.
+          </p>
+        </div>
+        <div>
+          <i class="fas fa-shopping-bag"></i>
+          <h4>CURBSIDE PICKUP</h4>
+          <p>
+            During this time, curbside pickup is one of the better options for your daily shopping.
+          </p>
+        </div>
+      </div>
+      <!--* ==========End of Articles========== -->
+
+      <!--* ==========Main========== -->
+      <div class="main">
+        <h1>ORIGINAL RECIPE SINCE 2020</h1>
+        <div class="main-container">
+          <h3>
+            <i class="far fa-star"></i>
+            ALL TIME FAVORITES
+            <i class="far fa-star"></i>
+          </h3>
+          <div class="main-images">
+            <div>
+              <img src="images/sandwich.jpg" alt="sandwich" />
+              <p>CRISPY CHICKEN SANDWICH</p>
+            </div>
+            <div>
+              <img src="images/wings.jpg" alt="wings" />
+              <p>HOT & SPICY WINGS</p>
+            </div>
+            <div>
+              <img src="images/fries.jpg" alt="fries" />
+              <p>FRENCH FRIES</p>
+            </div>
+          </div>
+          <div class="main-button">
+            <button id="menu" onclick="window.location.href='menu.html'">Full Menu</button>
+          </div>
+        </div>
+      </div>
+      <!--* ==========End of Main========== -->
+
+      <!--* ==========Offer========== -->
+      <div class="offer">
+        <div>
+          <h2>
+            <i class="far fa-star"></i>
+            SPECIAL OF THE WEEK
+            <i class="far fa-star"></i>
+          </h2>
+          <h4>YOUR NEW GUILTY PLEASURE</h4>
+          <p>
+            If you thought you screamed before for ice cream, you haven't heard anything yet. The
+            new housemade ice cream program at DA CRUST's Gold Coast location is really something to
+            shout about, taking into consideration how divine the texture is, how pronounced the
+            flavors are, and how adorable the adjoining cookies are. Just in time for warm weather,
+            DA CRUST comes to the rescue with sensational, scream-worthy ice cream that I literally
+            want to fill a big bowl with and eat for dinner.
+          </p>
+        </div>
+        <img src="images/icecream.jpg" alt="icecream" />
+      </div>
+      <!--* ==========End of Offer========== -->
+
+      <!--* ==========Deliver Info========== -->
+      <div class="deliver-info">
+        <div>
+          <h2>WE DELIVER</h2>
+          <h4>SATISFAYING YOUR CRAVING JUST GOT EASIER</h4>
+          <p>
+            Absolutely amazing experience. Great food and service from start to finish. Favorite
+            food for the best mood.
+          </p>
+          <button id="order-btn" onclick="window.location.href='order-online.html'">
+            Order Online
+          </button>
+        </div>
+      </div>
+      <!--* ==========End of Deliver Info========== -->
+
+      <!--* ==========Photos========== -->
+      <div class="photos">
+        <h2>FOLLOW @DACRUST</h2>
+        <div>
+          <img src="images/take-away.jpg" alt="no image" />
+          <img src="images/fries2.jpg" alt="no image" />
+          <img src="images/wings2.jpg" alt="no image" />
+          <img src="images/burger.jpg" alt="no image" />
+        </div>
+      </div>
+      <!--* ==========End of Photos========== -->
+
+      <!--* ==========Contact========== -->
+      <div class="contact" id="contact">
+        <div class="contact-form">
+          <h2>CONTACT US</h2>
+          <h4>DROP US A LINE AND WE'LL GET BACK TO YOU</h4>
+          <form id="form" method="POST" data-netlify="true">
+            <div class="first-row">
+              <div class="first-row-left-side">
+                <label for="first-name">First Name</label>
+                <input type="text" id="first-name" />
+                <small>Error message</small>
+              </div>
+              <div class="first-row-right-side">
+                <label for="last-name">Last Name</label>
+                <input type="text" id="last-name" />
+                <small>Error message</small>
+              </div>
+            </div>
+            <div class="second-row">
+              <div class="first-row-left-side">
+                <label for="email">Email *</label>
+                <input type="text" id="email" />
+                <small>Error message</small>
+              </div>
+              <div class="first-row-right-side">
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" />
+                <small>Error message</small>
+              </div>
+            </div>
+            <div class="third-row">
+              <div class="first-row-left-side">
+                <label for="message"> Leave us a message... </label>
+                <input type="text" id="message" />
+                <small>Error message</small>
+              </div>
+              <div class="first-row-right-side">
+                <input type="submit" value="Submit" id="submit" />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="contact-details">
+          <h2>WE'RE OPEN</h2>
+          <p>
+            Monday-Friday: 11am - 10pm <br />
+            Saturday-Sunday: 11am - 12am
+          </p>
+          <p>
+            500 Terry Francois Street, <br />
+            San Francisco, CA 94158
+          </p>
+          <p>
+            Tel: 123-456-7890 <br />
+            Email:info@mysite.com
+          </p>
+          <div class="social-media">
+            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+            <a href="https://twitter.com/home"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+      <!--* ==========End of Contact========== -->
+
+      <!--* ==========Footer========== -->
+      <div class="footer">
+        <p>© 2020 Da Crust. All rights reserved.</p>
+      </div>
+      <!--* ==========End of Footer========== -->
+    </div>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyAGETjsjNgtx4uAuDWm_IEjhrv5uPxlnKA",
+        authDomain: "myfirstproject-b0fb4.firebaseapp.com",
+        databaseURL: "https://myfirstproject-b0fb4.firebaseio.com",
+        projectId: "myfirstproject-b0fb4",
+        storageBucket: "myfirstproject-b0fb4.appspot.com",
+        messagingSenderId: "460498061004",
+        appId: "1:460498061004:web:7c86387178aa185a5d6469",
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+
+    <!--- link for script file -->
+    <script src="script/script.js"></script>
+    <script src="script/contact.js"></script>
+  </body>
+</html>

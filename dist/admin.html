@@ -1,0 +1,319 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Da Crust - Food Shop</title>
+        <!--- link for google fonts -->
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap"
+        />
+        <!--- link for css file -->
+        <link rel="stylesheet" href="style/style.css" />
+        <link rel="stylesheet" href="style/responsive.css">
+        <!--- link for font-awesome icons library -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+        />
+        <!-- text animating library -->
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+        integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw=="
+        crossorigin="anonymous"
+        />
+    </head>
+    <body onload="showAllMeals();">
+        <div class="container">
+            <!--* ==========Navbar========== -->
+            <div class="nav">
+                <nav class="navbar">
+                  <h1 onclick="redirectToHomePage();">
+                    <span>D</span>
+                    <span>A</span>
+                    &nbsp;
+                    <span>C</span>
+                    <span>R</span>
+                    <span>U</span>
+                    <span>S</span>
+                    <span>T</span>
+                    <i class="fas fa-drumstick-bite"></i>
+                  </h1>
+        
+                  <div class="menu-nav">
+                    <div class="nav-top">
+                      <div class="close">
+                        <i class="fas fa-times"></i>
+                      </div>
+                    </div>
+        
+                    <ul class="nav-list">
+                      <li>
+                        <a href="index.html" class="normal" id="home-page-btn"> Home </a>
+                      </li>
+                      <li>
+                        <a href="menu.html" class="normal" id="menu-page-btn"> Menu </a>
+                      </li>
+                      <li>
+                        <a href="order-online.html" class="normal" id="order-page-btn"> Order Online </a>
+                      </li>
+                      <li>
+                        <a href="admin.html" class="normal selected" id="admin-page-btn"> Admin </a>
+                      </li>
+                      <li>
+                        <a href="#contact" class="normal" id="contact-page-btn"> Contact </a>
+                      </li>
+                      <li class="order-btn">
+                        <a href="order-online.html" id="order-btn">Order Online</a>
+                      </li>
+                    </ul>
+                  </div>
+        
+                  <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                  </div>
+                </nav>
+              </div>
+            <!--* ==========End of Navbar========== -->
+
+            <!--* ==========Admin========== -->
+            <div class="admin">
+                <div class="loader"></div>
+                <h1>ADMIN</h1>
+                <div class="management" id="management-div">
+                    <h2>Products management</h2>
+                    <button id="add-new-meal-btn" onclick="showAddNewMealDiv();">
+                        <i class="fas fa-plus"></i> Add new meal
+                    </button>
+                </div>
+                <div class="all-meals" id="all-meals-div">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Picture</th>
+                                <th class="th-name">Name</th>
+                                <th class="th-price">Price</th>
+                                <th class="th-stock">Stock</th>
+                                <th class="th-x"><i class="far fa-trash-alt"></i></th>
+                            </tr>
+                        </thead>
+                        <tbody id="breakfast-meals"></tbody>
+                        <tbody id="starter-meals"></tbody>
+                        <tbody id="chicken-meals"></tbody>
+                        <tbody id="beef-meals"></tbody>
+                        <tbody id="pork-meals"></tbody>
+                        <tbody id="lamb-meals"></tbody>
+                        <tbody id="seafood-meals"></tbody>
+                        <tbody id="pasta-meals"></tbody>
+                        <tbody id="dessert-meals"></tbody>
+                        <tbody id="drinks-meals"></tbody>
+                        <tbody id="new-meal-meals"></tbody>
+                    </table>
+                </div>
+                <div class="add-new-meal" id="add-new-meal-div">
+                    <div class="loader"></div>
+                    <div class="add-new-meal-header">
+                        <h2>Add New Product</h2>
+                        <div class="buttons">
+                            <button onclick="addNewMealInAPI();">
+                                <i class="fas fa-plus"></i> Save
+                            </button>
+                            <button onclick="goBackToMealsList();">Cancel</button>
+                            <button onclick="goBackToMealsList();">Back to Meals</button>
+                        </div>
+                    </div>
+                    <div class="add-new-meal-inputs">
+                        <div>
+                            <label for="new-meal-picture">Picture</label>
+                            <input type="text" id="new-meal-picture" />
+                        </div>
+                        <div>
+                            <label for="new-meal-name">Name</label>
+                            <input type="text" id="new-meal-name" />
+                        </div>
+                        <div>
+                            <label for="new-meal-description">Description</label>
+                            <textarea cols="30" rows="10" id="new-meal-description"></textarea>
+                        </div>
+                        <div>
+                            <label for="new-meal-recipe">Recipe</label>
+                            <input type="text" id="new-meal-recipe" />
+                        </div>
+                        <div>
+                            <label for="new-meal-price">Price</label>
+                            <input type="text" id="new-meal-price" />
+                        </div>
+                        <div>
+                            <label for="new-meal-stock">Stock</label>
+                            <input type="text" id="new-meal-stock" />
+                        </div>
+                        <div>
+                            <label for="new-meal-prep-time">Prep Time</label>
+                            <input type="text" id="new-meal-prep-time" />
+                        </div>
+                        <div>
+                            <label for="new-meal-id">ID</label>
+                            <input type="text" id="new-meal-id" />
+                        </div>
+                        <div>
+                            <label for="new-meal-category">Category</label>
+                            <input type="text" id="new-meal-category" />
+                        </div>
+                    </div>
+                </div>
+                <div class="edit-meal" id="edit-meal-div">
+                    <div class="loader"></div>
+                    <div class="edit-meal-header">
+                        <h2>Edit Product</h2>
+                        <div class="buttons">
+                            <button onclick="editMealInAPI();">
+                                <i class="fas fa-plus"></i> Save
+                            </button>
+                            <button onclick="goBackToMealsListFromEdit();">Cancel</button>
+                            <button onclick="goBackToMealsListFromEdit();">Back to Meals</button>
+                        </div>
+                    </div>
+                    <div class="edit-meal-inputs">
+                        <div>
+                            <label for="edit-meal-picture">Picture</label>
+                            <input type="text" id="edit-meal-picture" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-name">Name</label>
+                            <input type="text" id="edit-meal-name" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-description">Description</label>
+                            <textarea cols="30" rows="10" id="edit-meal-description"></textarea>
+                        </div>
+                        <div>
+                            <label for="edit-meal-recipe">Recipe</label>
+                            <input type="text" id="edit-meal-recipe" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-price">Price</label>
+                            <input type="text" id="edit-meal-price" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-stock">Stock</label>
+                            <input type="text" id="edit-meal-stock" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-prep-time">Prep Time</label>
+                            <input type="text" id="edit-meal-prep-time" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-id">ID</label>
+                            <input type="text" id="edit-meal-id" />
+                        </div>
+                        <div>
+                            <label for="edit-meal-category">Category</label>
+                            <input type="text" id="edit-meal-category" />
+                        </div>
+                    </div>
+            </div>
+            <!--* ==========End of Admin========== -->
+            <!--* ==========Contact========== -->
+            <div class="contact" id="contact">
+                <div class="contact-form">
+                    <h2>CONTACT US</h2>
+                    <h4>DROP US A LINE AND WE'LL GET BACK TO YOU</h4>
+                    <form id="form"  method="POST" data-netlify="true">
+                        <div class="first-row">
+                            <div class="first-row-left-side">
+                                <label for="first-name">First Name</label>
+                                <input type="text" id="first-name" />
+                                <small>Error message</small>
+                            </div>
+                            <div class="first-row-right-side">
+                                <label for="last-name">Last Name</label>
+                                <input type="text" id="last-name" />
+                                <small>Error message</small>
+                            </div>
+                        </div>
+                        <div class="second-row">
+                            <div class="first-row-left-side">
+                                <label for="email">Email *</label>
+                                <input type="text" id="email" />
+                                <small>Error message</small>
+                            </div>
+                            <div class="first-row-right-side">
+                                <label for="subject">Subject</label>
+                                <input type="text" id="subject" />
+                                <small>Error message</small>
+                            </div>
+                        </div>
+                        <div class="third-row">
+                            <div class="first-row-left-side">
+                                <label for="message"> Leave us a message... </label>
+                                <input type="text" id="message" />
+                                <small>Error message</small>
+                            </div>
+                            <div class="first-row-right-side">
+                                <input type="submit" value="Submit" id="submit" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="contact-details">
+                    <h2>WE'RE OPEN</h2>
+                    <p>
+                        Monday-Friday: 11am - 10pm <br />
+                        Saturday-Sunday: 11am - 12am
+                    </p>
+                    <p>
+                        500 Terry Francois Street, <br />
+                        San Francisco, CA 94158
+                    </p>
+                    <p>
+                        Tel: 123-456-7890 <br />
+                        Email:info@mysite.com
+                    </p>
+                    <div class="social-media">
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        <a href="https://twitter.com/home"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!--* ==========End of Contact========== -->
+            <!--* ==========Footer========== -->
+            <div class="footer">
+                <p>
+                    © 2020 Da Crust. All rights reserved.
+                </p>
+            </div>
+            <!--* ==========End of Footer========== -->
+        </div>
+
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script>
+
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+
+        <script>
+            // Your web app's Firebase configuration
+            var firebaseConfig = {
+                apiKey: "AIzaSyAGETjsjNgtx4uAuDWm_IEjhrv5uPxlnKA",
+                authDomain: "myfirstproject-b0fb4.firebaseapp.com",
+                databaseURL: "https://myfirstproject-b0fb4.firebaseio.com",
+                projectId: "myfirstproject-b0fb4",
+                storageBucket: "myfirstproject-b0fb4.appspot.com",
+                messagingSenderId: "460498061004",
+                appId: "1:460498061004:web:7c86387178aa185a5d6469",
+            };
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
+        </script>
+
+        <!--- link for script file -->
+        <script src="script/script.js"></script>
+        <script src="script/contact.js"></script>
+        <script src="script/admin.js"></script>
+    </body>
+</html>
