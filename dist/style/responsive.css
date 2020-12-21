@@ -162,6 +162,15 @@
   .navbar ul li a.normal {
     font-size: 1.4rem;
   }
+
+  /* Details Page */
+  .show-recipes div img {
+    width: 400px;
+  }
+  /* Order-online */
+  .center-side-menu {
+    width: 450px;
+  }
 }
 
 @media (max-width: 1050px) {
@@ -315,6 +324,22 @@
   .cat-list {
     grid-template-columns: repeat(1, 1fr);
   }
+  /* Order-online */
+  .center-side-menu {
+    width: 400px;
+  }
+
+  .right-side-order {
+    width: 300px;
+  }
+
+  .order-logo i {
+    padding: 1rem 7rem;
+  }
+
+  .pick-up button {
+    margin-left: 1rem;
+  }
   /* -Admin */
   .add-new-meal,
   .edit-meal {
@@ -333,6 +358,13 @@
   .edit-meal-inputs input,
   .edit-meal-inputs textarea {
     width: 700px;
+  }
+  /* Details Page */
+  .show-recipes div {
+    align-items: center;
+  }
+  .show-recipes div img {
+    width: 450px;
   }
 }
 
@@ -402,6 +434,26 @@
   .deliver-info button {
     margin: 0 6rem 2rem 0;
   }
+  /* Order-online */
+  .center-side-menu {
+    width: 350px;
+    padding: 1rem 2rem;
+  }
+
+  .pick-up button {
+    margin-left: 1rem;
+  }
+  /* Details Page */
+  .show-recipes div {
+    flex-direction: column;
+  }
+  .show-recipes div img {
+    width: 350px;
+  }
+
+  .show-recipes div p {
+    padding-left: 0;
+  }
 }
 
 @media (max-width: 768px) {
@@ -445,6 +497,10 @@
   }
   .navbar ul li a.normal {
     padding-left: 8rem;
+  }
+
+  .navbar ul li:nth-child(5) {
+    display: none;
   }
 
   .nav-top .close {
@@ -528,17 +584,24 @@
     width: 400px;
   }
   /* -Order-Online */
-  .center-side-menu {
-    width: 300px;
+  .order-online h1 {
+    font-size: 4.5rem;
   }
-  .right-side-order {
-    width: 300px;
+  .left-side-menu {
+    width: 120px;
+  }
+  .menu-dropdown button {
+    margin-left: -2rem;
+  }
+  .menu-dropdown i {
+    padding-left: 0.5rem;
+  }
+  .center-side-menu {
+    width: 250px;
+    padding: 1rem 0.5rem;
   }
   .order-logo i {
-    padding: 1rem 6.5rem;
-  }
-  .pick-up button {
-    margin-left: 1rem;
+    padding: 1rem 5rem;
   }
   /* -Admin */
   .management {
@@ -564,6 +627,29 @@
   .edit-meal-inputs input,
   .edit-meal-inputs textarea {
     width: 500px;
+  }
+  /* Contact */
+  .contact-form h2 {
+    text-align: center;
+    margin: 2rem auto;
+  }
+
+  .contact-form h4 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .first-row input,
+  .second-row input {
+    width: 200px;
+  }
+
+  .third-row input {
+    width: 240px;
+  }
+
+  .contact-details h2 {
+    margin-bottom: 2rem;
   }
 }
 
@@ -642,11 +728,11 @@
 
   .first-row input,
   .second-row input {
-    width: 200px;
+    width: 180px;
   }
 
   .third-row input {
-    width: 240px;
+    width: 220px;
   }
 
   .contact-details h2 {
@@ -664,25 +750,63 @@
     width: 360px;
   }
   .list-name-price p:first-child {
-    width: 330px;
+    width: 300px;
   }
   /* -Order-Online */
   .order-online-menu {
-    flex-direction: column;
+    display: grid;
+    row-gap: 2rem;
+    grid-template-areas:
+      "left-side-menu center-side-menu"
+      "right-side-order right-side-order";
+  }
+
+  .left-side-menu {
+    grid-area: left-side-menu;
+  }
+
+  .center-side-menu {
+    grid-area: center-side-menu;
+  }
+
+  .right-side-order {
+    grid-area: right-side-order;
+  }
+
+  .right-side-order {
+    border-left: 1px solid var(--darker-grey);
+    width: 370px;
+  }
+
+  .order-logo i {
+    padding: 1rem 8.5rem;
+  }
+
+  .pick-up button {
+    margin-left: 3rem;
   }
   /* -Admin */
   .management {
     padding: 2rem;
   }
+  .admin h1 {
+    font-size: 4.5rem;
+  }
   .all-meals {
     padding: 0.5rem;
   }
   .all-meals table img {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
   }
   .th-x {
     width: 90px;
+  }
+  .btn-x {
+    margin-left: -0.8rem;
+  }
+  .buttons button:nth-child(3) {
+    margin-top: 0.5rem;
   }
   .add-new-meal,
   .edit-meal {
@@ -701,6 +825,13 @@
   .edit-meal-inputs input,
   .edit-meal-inputs textarea {
     width: 240px;
+  }
+  /* Details */
+  .details h1 {
+    font-size: 4rem;
+  }
+  .show-recipes div img {
+    width: 300px;
   }
 }
 
@@ -756,15 +887,26 @@
 
   .first-row input,
   .second-row input {
-    width: 170px;
+    width: 160px;
   }
 
   .third-row input {
-    width: 200px;
+    width: 170px;
   }
 
   .contact-details h2 {
     font-size: 2.3rem;
     margin-bottom: 2rem;
+  }
+  /* menu */
+  .list-name-price p:first-child {
+    width: 250px;
+  }
+  /* Details */
+  .show-recipes div {
+    align-items: flex-start;
+  }
+  .show-recipes div img {
+    width: 200px;
   }
 }
